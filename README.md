@@ -1,1 +1,2 @@
-# hackathon-pixelquiz
+hackaton-pixelquiz
+==================
